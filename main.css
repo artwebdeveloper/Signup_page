@@ -1,0 +1,100 @@
+body {
+  background-color: rgb(52, 126, 224);
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.logo {
+display: block;
+position: relative;
+margin-left: auto;
+margin-right: auto;
+padding-top: 50px;
+height: 35px;
+}
+
+.form {
+  position: relative;
+}
+
+.form{
+  position: relative;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 500px;
+  background-color: white;
+  display: block;
+}
+
+  h1 {
+  display: block;
+  margin-left: 130px;
+  padding-top: 40px;
+}
+
+
+
+label, input {
+  font-size: 16px;
+  margin-left: 30px;
+  width: 320px;
+  height: 25px;
+  padding: 15px;
+
+
+}
+
+input {
+  border: 2px solid grey;
+}
+
+#email {
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+#password {
+  margin-top: 25px;
+}
+
+.signup {
+  margin-top: 25px;
+  margin-bottom: -20px;
+  display: block;
+  font-size: 16px;
+  margin-left: 30px;
+  width: 354px;
+  height: 50px;
+  padding: 15px;
+  color: white;
+}
+
+.signup a:hover {
+  color: #006400;
+}
+
+p {
+  display: block;
+  margin-left: 150px;
+  color: rgb(154, 157, 161);
+}
+
+.footer {
+  position: absolute;
+  margin: 10px auto;
+  margin-left: 450px;
+  padding: 0;
+  color: white;
+}
+
+.footer a {
+  color: white;
+}
